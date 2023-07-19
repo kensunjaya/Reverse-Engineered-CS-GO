@@ -1,0 +1,15 @@
+﻿  csgo hack.cpp
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(156,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(157,65): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(165,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(166,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(169,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(170,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(199,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(200,71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 29 functions ( 3.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  csgo hack.vcxproj -> C:\Users\Kenneth\source\repos\csgo hack\Release\csgo hack.exe

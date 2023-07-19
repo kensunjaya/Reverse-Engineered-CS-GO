@@ -1,0 +1,3 @@
+﻿  csgo hack.cpp
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(26,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  csgo hack.vcxproj -> C:\Users\Kenneth\source\repos\csgo hack\Debug\csgo hack.exe

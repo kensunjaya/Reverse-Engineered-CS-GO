@@ -1,0 +1,15 @@
+﻿  csgo hack.cpp
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(11,51): error C2664: 'HMODULE GetModuleHandleW(LPCWSTR)': cannot convert argument 1 from 'const char *' to 'LPCWSTR'
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(11,44): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\libloaderapi.h(269,1): message : see declaration of 'GetModuleHandleW'
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(14,9): error C2065: 'MODULEINFO': undeclared identifier
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(14,20): error C2146: syntax error: missing ';' before identifier 'moduleInfo'
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(14,20): error C2065: 'moduleInfo': undeclared identifier
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(15,70): error C2065: 'moduleInfo': undeclared identifier
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(15,89): error C2065: 'moduleInfo': undeclared identifier
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(15,13): error C3861: 'GetModuleInformation': identifier not found
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(17,65): error C2065: 'moduleInfo': undeclared identifier
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(55,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(55,16): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(86,22): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(109,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data

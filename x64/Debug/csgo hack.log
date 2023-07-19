@@ -1,0 +1,9 @@
+﻿  csgo hack.cpp
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(26,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(39,23): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPCVOID' of greater size
+C:\Users\Kenneth\source\repos\csgo hack\csgo hack.cpp(108): message : see reference to function template instantiation 'T RPM<float>(DWORD,DWORD,T)' being compiled
+          with
+          [
+              T=float
+          ]
+  csgo hack.vcxproj -> C:\Users\Kenneth\source\repos\csgo hack\x64\Debug\csgo hack.exe
