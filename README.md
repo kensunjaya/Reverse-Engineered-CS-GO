@@ -9,7 +9,7 @@ How does it work? Here's a simple math behind the aimbot hack.
 
 For example, suppose we have a player coordinate at (1, 1, 1.5) and an enemy coordinate at (3, 4, 1). I'm going to plot their positions on a three dimensional diagram for better visualization.
 
-![alt text](https://media.discordapp.net/attachments/1041011411658223636/1134342558538014800/image.png)
+![alt text](https://cdn.discordapp.com/attachments/1041011411658223636/1134367464893984909/image.png)
 
 In CS:GO, there isn't just one enemy. I'm going to create a hack that cycles through all enemy players. To make this feature even better, I'll find the closest enemy so the aimbot won't snap to the farthest enemy player. For better visualization and understanding, I'll draw a prism. We'll need to calculate the distance to every enemy by looping through them.
 
