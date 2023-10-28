@@ -3,7 +3,7 @@ Simple aimbot with cycling entities. Move crosshair to the closest enemy target.
 
 The offsets in the .cpp file are not constantly updated. Please use hazedumper to obtain all needed offsets and pointers.
 
-## Don't forget to add **-insecure** launch parameter before messing up with the hack. There's a high chance that VAC will catch you cheating.
+## Don't forget to add **-insecure** launch parameter before experimenting with the program, otherwise you'll get banned by VAC.
 
 How does it work? Here's a simple math behind the aimbot hack.
 
