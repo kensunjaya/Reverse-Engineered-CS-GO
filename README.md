@@ -5,7 +5,7 @@ The offsets in the .cpp file are not constantly updated. Please use hazedumper t
 
 ## Don't forget to add **-insecure** launch parameter before experimenting with the program, otherwise you'll get banned by VAC.
 
-How does it work? Here's a simple math behind the aimbot hack.
+Here's a simple math behind the aimbot system.
 
 For example, suppose we have a player coordinate at (1, 1, 1.5) and an enemy coordinate at (3, 4, 1). I'm going to plot their positions on a three dimensional diagram for better visualization.
 
