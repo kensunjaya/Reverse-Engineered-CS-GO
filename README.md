@@ -11,7 +11,7 @@ For example, suppose we have a player coordinate at (1, 1, 1.5) and an enemy coo
 
 ![alt text](https://cdn.discordapp.com/attachments/1041011411658223636/1134367464893984909/image.png)
 
-In CS:GO, there isn't just one enemy. I'm going to create a hack that cycles through all enemy players. To make this feature even better, I'll find the closest enemy so the aimbot won't snap to the farthest enemy player. For better visualization and understanding, I'll draw a prism. We'll need to calculate the distance to every enemy by looping through them.
+In CS:GO, there isn't just one enemy. I'm going to create an aimbot that cycles through all enemy players. To make this feature even better, I'll find the closest enemy so the aimbot won't snap to the farthest enemy player. For better visualization and understanding, I'll draw a prism. We'll need to calculate the distance to every enemy by looping through them.
 
 ![alt text](https://cdn.discordapp.com/attachments/1041011411658223636/1134360347529191424/Distance_PLAYER_to_ENEMY.png)
 
