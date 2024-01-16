@@ -1,4 +1,4 @@
-# CS-GO-Reverse Engineered - Creating an Aimbot
+# CS:GO-Reverse Engineered - Creating an Aimbot
 Simple aimbot with cycling entities. Move crosshair to the closest enemy target.
 
 The offsets in the .cpp file are not constantly updated. Please use hazedumper to obtain all needed offsets and pointers.
